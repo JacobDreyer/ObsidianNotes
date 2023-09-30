@@ -1,0 +1,1 @@
+[[Independent Clause]]s can be joined together to form compund sentences

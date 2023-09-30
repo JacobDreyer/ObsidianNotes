@@ -1,0 +1,1 @@
+Two circuit elements are in parallel if both ends of one elements are connected directly to corresponding ends of the other (There are multiple paths)

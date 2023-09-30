@@ -1,0 +1,1 @@
+The practice of leaving land idle for a year or more to accumulate soil moisture

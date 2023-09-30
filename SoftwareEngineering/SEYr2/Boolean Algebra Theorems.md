@@ -1,0 +1,20 @@
+## Boolean Algebra Theorems
+$$ x+0=x $$
+$$ x+y=y+x $$
+$$ x\cdot 1=x $$
+$$ x\cdot y=y\cdot x $$
+$$ x\cdot(y+z) = (x\cdot y)+(x\cdot z) $$
+$$ x+(y\cdot z) = (x+y)\cdot(x+z) $$
+$$ x+\bar x = 1 $$
+$$ x\cdot\bar x = 0 $$
+$$ x+1 = 1 $$
+$$ x\cdot 0 = 0 $$
+$$ x+x = x $$
+$$ x\cdot x = x $$
+$$ \bar{(\bar x)} = x $$
+$$ x+(y+z) = (x+y)+z $$
+$$ x\cdot(y\cdot z) = (x\cdot y)\cdot z $$
+$$ \bar{(x+y)} = (\bar x\cdot\bar y) $$
+$$ \bar{(x\cdot y)} = \bar x + \bar y $$
+$$ x+(x\cdot y) = x $$
+$$ x\cdot(x+y) = x $$

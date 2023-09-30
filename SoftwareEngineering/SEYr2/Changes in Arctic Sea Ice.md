@@ -1,0 +1,1 @@
+In the coming decades, the polar areas are expected to warm faster than any other areas on Earth.

@@ -1,0 +1,1 @@
+A [[Probability Model]] is a description of some random phenomenon that consists of 2 parts: A sample space S and a probability for each outcome

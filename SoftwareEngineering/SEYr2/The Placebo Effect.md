@@ -1,0 +1,1 @@
+Occurs when people respond favourably to personal attention or to any treatment that they hope will help them

@@ -1,0 +1,15 @@
+- Motivation
+	- It's important for some classes to have exactly one instance
+- Intent
+	- Ensure that only one instance of a class is created
+	- Provide a global point of access to the object
+- Structure
+	- Singleton
+		- Defines an instance operation that lets clients access its unique instance.
+		- Responsible for creating and maintaining its own unique instance
+- Solution - Use the singleton pattern when:
+	- There must be exactly one instance of a class, and it must be accessible to clients from a well-known access point
+	- Example:
+	- Logger Classes
+		- These classes are implemented as a singletons and provides a global logging access point in all the application components without being necessary to create an object each time a logging operation is performed
+![[Pasted image 20230404005058.png]]

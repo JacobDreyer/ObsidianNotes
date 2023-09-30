@@ -1,0 +1,1 @@
+[[Collision]]s that are handled with [[Linear Probing]] cause groups of consecutive locations in the hash table to be occupied. Each group creates a cluster. This is known as primary clustering

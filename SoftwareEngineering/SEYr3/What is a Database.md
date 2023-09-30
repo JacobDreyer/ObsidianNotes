@@ -1,0 +1,4 @@
+- A [[Database]] is a structured collection of data stored in a computer system
+- Purpose: databases help in efficient storage, retrieval, and manipulation of data, serving as a central repository
+- [[System Catalogue]] (data dictionary, metadata) provides description of data to enable program-data independence
+- 

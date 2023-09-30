@@ -1,0 +1,11 @@
+## Class vs Prototype:
+| Class Based                                                                                                         | Prototype Based                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Class and Instance are distinct entities                                                                            | All objects can inherit from another object                                                                                                                              |
+| Define a class with a class definition; instantiate a class with constructor methods                                | Define and create a set of objects with constructor functions                                                                                                            |
+| Create a single object with the new operator                                                                        | Same                                                                                                                                                                     |
+| Construct an object hierarchy by using class definitions to define subclasses of existing classes                   | Construct an object hierarchy by assigning an object as the prototype associated with a constructor function                                                             |
+| Inherit properties by following the class chain                                                                     | Inherit properties by following the prototype chain                                                                                                                      |
+| Class definition specifies all properties of all instances of a class. Cannot add properties dynamically at runtime | Constructor function or prototype specifies an initial set of properties. Can add or remove properties dynamically to individual objects or to the entire set of objects |
+
+

@@ -1,0 +1,2 @@
+- Event objects are instances of the Event Class (from the javafx.event package), or one of its subclasses
+- For Example, a button click generates an ActionEvent object. ActionEvent is a subclass of the event class

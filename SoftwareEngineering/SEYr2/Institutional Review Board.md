@@ -1,0 +1,7 @@
+- The organiztion that carries out the study must have an [[Institutional Review Board]] that reviews all planned studies in advance in order to protect the subjects from possible harm
+- The purpose of an Institutional review board is "to protect the rights and welfare of human subjects (including patients) recruited to participate in reasearch activities"
+- The institutional review board:
+	- Reviews the plan of study
+	- Can require changes
+	- reviews the consent form 
+	- moniters progress at least once a year

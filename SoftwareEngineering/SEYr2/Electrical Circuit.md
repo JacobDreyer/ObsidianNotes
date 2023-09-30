@@ -1,0 +1,1 @@
+Consists of various elements connected in closed paths by conductors

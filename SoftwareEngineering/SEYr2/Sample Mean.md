@@ -1,0 +1,1 @@
+Sample [[Mean]] can be represented by $\bar x$

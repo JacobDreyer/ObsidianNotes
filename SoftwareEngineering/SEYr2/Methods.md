@@ -1,0 +1,1 @@
+A method is a repeatable technique for solving a specific problem

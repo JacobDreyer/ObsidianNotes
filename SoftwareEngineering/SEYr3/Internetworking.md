@@ -1,0 +1,6 @@
+- [[1970]]: [[ALOHAnet]] satellite network in [[Hawaii]]
+- [[1974]]: [[Cerf and Kahn]] - architecture for interconnecting networks
+- [[1976]]: [[Ethernet]] at Xerox PARC
+- late [[1970s]]: proprietary architectures: [[DECnet]], [[SNA]], [[XNA]]
+- [[1979]]: ARPAnet has 200 nodes
+- 

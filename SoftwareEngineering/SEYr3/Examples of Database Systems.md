@@ -1,0 +1,5 @@
+- Purchases from the supermarket
+- Course Registration
+- Purchases using credit card
+- Online purchases e.g. Amazon and eBay
+- Healthcare

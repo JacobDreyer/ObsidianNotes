@@ -1,0 +1,1 @@
+In comparative [[Experiment]]s subjects are assigned to one of two or more groups. In many studies, two such groups are the control group and the treatment group.

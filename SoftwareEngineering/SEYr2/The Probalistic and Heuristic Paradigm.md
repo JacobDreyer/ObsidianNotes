@@ -1,0 +1,3 @@
+- Probabalistic Algorithms are those that make some choices randomly; for some problems, it can in fact be proven that the fastest solutions must invlove some randomness
+- Genetic Algorithms attempt to find solutions to problems by mimicking biological evolutionary processes, with a cycle of random mutations yielding successive generations of "solutions"
+- Heuristic Algorithms, whose general purpose in not to find an optimal solution but, an approximate solution where the time or resources are limited. They are not practical to find perfect solutions.

@@ -1,0 +1,2 @@
+- A trivial but very general problem-solving technique that consists of systematically enumerating/itemizing all possible candidates for the solution and checking whether each candidate satisfies the problem's statement
+- 

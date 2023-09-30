@@ -1,0 +1,28 @@
+- Motivation
+	- Consider a document editor like MS word that can embed multimedia contents objects in a document
+	- Some contents, like video files, can be expensive to create
+	- But opening a document should be fast, so we should avoid creating all the expensive objects at once when the document is opened. Especially if the portion containing these expensive parts is not visible
+	- These constraints would suggest creating each expensive item on demand, which in this case occurs when a video becomes visible
+	- But what do we put in the document in place of the video? and how can we hide the fact that the video is created on demand
+	- The solution is to use another object, a video proxy, that acts as a stand-in for the real video. The proxy acts just like the video and takes care of instantiating it when it's required
+- Intent
+	- Provide a surrogate or placeholder for another object to control access to it
+- Also known as
+	- Surrogate
+- Participants
+	- SubjectInterface
+		- represents the realSubject services
+		- Must be implemented by realSubject and the proxy so that the proxy can be used in any location where the RealSubject is used
+	- Proxy
+		- maintains a reference that allows the Proxy to access the RealSubject
+		- can be subsituted for the RealSubject
+		- Controls access to the RealSubject and may be responsible for its creation and deletion
+	- RealSubject
+		- the real object that the proxy represents
+- Solution - Use the proxy pattern when there is need to control access to an Object, as well as when there is a need for a sophisticated reference to an object. Common situations where the proxy pattern is applicable are:
+	- A [[Virtual Proxy]] allows the creation of a memory intensive object on demand. The object will not be created until it is really needed
+	- A [[Protection Proxy]] ([[Firewall]]) controls access to a resource based on access rights
+	- [[Remote Proxy]] providing a local representation for an object that is in a different address space
+	- [[Smart References]] providing a sophisticated access to certain objects such as tracking the number of references to an object and denying access if a certain number is reached
+![[Pasted image 20230404010853.png]]
+![[Pasted image 20230404011000.png]]

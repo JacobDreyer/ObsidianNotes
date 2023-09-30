@@ -1,0 +1,1 @@
+- A functional requirement is an area of functionality that the system must support

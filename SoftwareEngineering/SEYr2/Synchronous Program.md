@@ -1,0 +1,3 @@
+Things happen 1 at a time. When you call a function that perform's a long-running action it returns only when the action has finished and it can return the result. This stops your program for the time the action takes.
+
+The solution to this is to start additional threads of control. A thread is another running program whose execution may be interleaved with other programs by the operating system. Multi-threading requires context switching which can become very costly. 

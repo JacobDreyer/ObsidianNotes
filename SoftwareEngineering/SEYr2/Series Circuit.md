@@ -1,0 +1,1 @@
+When elements are connected end to end (There is one continuous path)

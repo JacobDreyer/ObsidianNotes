@@ -1,0 +1,4 @@
+- Repeatedly reduces an instance of a problem to one or more smaller instances of the same problem (usually recursively) until the instances are small enough to be solved easily
+- Decrease and Conquer Algorithm
+	- Is a simpler variant that solves an identical sub-problem and uses the solution of this subproblem to solve the bigger problem
+	- 

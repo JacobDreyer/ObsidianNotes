@@ -1,0 +1,11 @@
+- [[1992]]: [[HTML 1.0]], [[Tim Berners-Lee]] original proposal
+- [[1994]]: [[HTML 2.0]], standard with best features
+- [[1996]]: Competing with [[Netscape]] and [[Explorer]] features
+- [[1996]]: [[HTML 3.2]] the Browser Wars end
+- [[1997]]: [[HTML 4.0]] stylesheets are introduced
+- [[1999]]: [[HTML 4.01]], we have a winner!
+- [[2000]]: [[XHTML 1.0]], an [[XML]] version of [[HTML 4.01]]
+	- Long period spent on [[XHTML]] causing browser markers to innovate on their own
+- [[2014]]: [[HTML5]] published as a [[W3C]] recommendation
+	- [[HTML 5.1]] in [[2016]] and [[HTML 5.2]] in [[2017]]
+- [[2019]]: [[WHATWG]] group takes over [[HTML]] specification and maintains as a "living standard"

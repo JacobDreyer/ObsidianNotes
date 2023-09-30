@@ -1,0 +1,9 @@
+![[Drawing 2023-09-07 14.16.32.excalidraw]]
+
+- The [[Waterfall Development Model]] and [[Incremental Development Model]] can be used in projects where the problem is ==well defined==, the requirements can be ==clearly elicited== and defined, and the technical ==feasibility== of a solution is understood. 
+- However, in many projects it is often difficult to pin down exactly what is required from a software system at the start of the project and/or we may not have a clear understanding of the technical issues surrounding that system
+- In addition, there may be a compelling need to provide a limited set of software functionality to users quickly and then refine and expand on that functionality in later software releases. In such cases, you can choose a process model that is designed to produce the software in increments
+- The incremental model combines the elements' linear and parallel process process flows. The incremental model applies linear sequences in a staggered fashion as calendar time progresses. Each linear sequence produces deliverable "increments" of the software
+![[Pasted image 20230920165008.png|500]]
+- When an incremental model is used, the first increment if often a [[Core Product]]. That is, basic requirements are addressed but many supplementary features (some known, others unknown) remain undelivered. The core product is used by the customer (or undergoes detailed evaluation). As a result of use and/or evaluation, a plan is developed for the next increment. The plan addresses the modification of the core product to better meet the needs of the customer and the delivery of additional features and functionality
+- 

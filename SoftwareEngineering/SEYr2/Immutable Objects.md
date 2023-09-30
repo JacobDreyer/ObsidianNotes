@@ -1,0 +1,3 @@
+- Immutable objects cannot be changed after they were created
+- For Example: Strings are immutable
+	- In reality when we change a string we are actually creating a new string and changing the variable so it points to the new string

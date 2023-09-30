@@ -1,0 +1,23 @@
+- Motivation
+	- We have learned that structuring a system into subsystems helps reduce complexity
+		- Where we partition into a collection of cooperating classes
+	- One of the biggest challenges in this approach is the need to maintain consistency between related objects as we don't want to achieve consistency by making the classes tightly coupled, because that reduces their reusability
+- Intent
+	- Define a one-to-many dependency between objects so that when one object changes state, all it's dependents are notified and updated automatically
+- Also known as 
+	- Dependents, Publish-Subscribe
+- Participants
+	- Subject Interface
+		- knows its observers. Any number of Observer objects may observe a subject
+		- Provides an interface for attaching and detaching Observer objects
+	- Observer
+		- Defines an updating interface for objects that should be notified of changes in a subject
+	- Concrete Subject
+		- stores state of interest to ConcreteObserver objects
+		- Sends a notification to it's observers when it's state changes
+	- ConcreteObserver
+		- maintains a reference to a Concrete Subject object
+		- stores state that should stay consistent with the subject's
+		- implements the Observer updating interface to keep its state consistent with the subject's
+- Solution - The observer pattern is used when:
+	- The change of a state in one object must be reflected in another object without keeping the objects tight coupled

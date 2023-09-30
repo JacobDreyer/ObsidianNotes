@@ -1,0 +1,4 @@
+- [[Resonance]] occurs in any circuit that has at least one [[Inductor]] and one [[Capacitor]]
+- Resonance is a condition in an [[RLC Circuit]] in which that capacitive and inductive reactances are equal in magnitude, thereby resulting in a purely resistive impedance
+- Resonant circuits are useful for construction of [[filters]]
+- They are used for selecting the desired stations in radio TV receivers

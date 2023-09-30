@@ -1,0 +1,2 @@
+### [[Western Alienation]]
+![[Western Alienation]]

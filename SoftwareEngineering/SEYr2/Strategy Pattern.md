@@ -1,0 +1,29 @@
+- Motivation
+	- A strategy defines a set of algorithms that can be used interchangeably
+	- What is your strategy to go to school?
+		- Driving a car, taking a taxi, bus, or limosine service
+	- Any of these modes of transportation will get students to the school, and they can be used interchangebly
+	- The student must choose the strategy based on tradeoffs between cost, convenience, and time
+	- Many algorithms exist for sorting a list of integers. Hard-wiring all such algorithms into the class that require them isn't very desireable for several reasons
+		- Clients that need integers sorting get more complex if they include the sorting code, especially if they support multiple sorting algorithms
+		- Different algorithms will be appropriate at different times. We don't want to support multiple sorting algorithms if we don't use them all
+		- It's difficult to add new algorithms and vary existing ones when sorting code is an integral part of a client
+	- We can avoid these problems by defining classes that encapsulate different integer sorting algorithms. An algorithm that's encapsulated in this way is called a strategy
+- Intent
+	- Define a family of algorithms, encapsulate each one, and make them interchangeable
+	- Strategy lets the algorithm vary independently from clients that use it
+- Also known as
+	- Policy
+- Participants
+	- Strategy
+		- Declares an interface common to all supported algorithms
+		- Context uses this interface to call the algorithm defined by a ConcreteStrategy
+	- Concrete Strategy
+		- Implements the algorithm using the Strategy interface
+	- Context 
+		- is configured with a ConcreteStrategy object
+		- maintains a reference to a Strategy object
+- Solution - The strategy pattern is used when:
+	- you want to choose the algorithm to use at runtime
+![[Pasted image 20230404005954.png]]
+![[Pasted image 20230404010120.png]]

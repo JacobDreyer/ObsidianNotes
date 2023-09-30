@@ -1,0 +1,2 @@
+- A call event is a request for a specific operation to be invoked on an instance of the context class
+- Receipt of a call event is a trigger for the operation to execute

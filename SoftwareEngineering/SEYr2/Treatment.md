@@ -1,0 +1,2 @@
+- A specific condition applied to the individuals in an experiment is called a treatment
+- If an experiment has several [[Explanatory Variables]], a treatment is a combination of specific values of these variables

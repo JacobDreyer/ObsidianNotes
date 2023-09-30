@@ -1,0 +1,3 @@
+- Declare an attribute or operation public if you want it to be accessible directly by any other class
+- specified by using the + symbol in a [[UML Diagram]]
+- 

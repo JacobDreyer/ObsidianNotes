@@ -1,0 +1,1 @@
+The highway opened in 1962 and links all 10 provinces. The main branch is one of the longest highways in the world (7821 km).

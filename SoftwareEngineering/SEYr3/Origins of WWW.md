@@ -1,0 +1,7 @@
+- WWW was invented by [[Tim Berners-Lee]] at [[CERN]] ([[1989]])
+- [[Hypertext]] across the internet (replacing [[FTP]])
+- Three constituents: [[HTML]] + [[URL]] + [[HTTP]]
+	- [[HTML]] is an [[SGML]] language for [[Hypertext]]
+	- [[URL]] is a notation for locating files on servers
+	- [[HTTP]] is a high-level protocol for file transfers
+- Key to success was [[Vendor Neutral Protocols]]

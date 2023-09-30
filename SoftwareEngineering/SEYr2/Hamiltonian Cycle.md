@@ -1,0 +1,1 @@
+A [[cycle]] where every vertex appears once and only once

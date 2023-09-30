@@ -1,0 +1,3 @@
+- A change event is specified as a boolean expression
+- The action associated with the event is performed when the value of the boolean expression transitions from false to true
+- From the implementation perspective, a change event implies continually testing the boolean condition while in the state

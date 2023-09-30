@@ -1,0 +1,1 @@
+A plant that grows in a sideways formation because harsh dry winds desiccate the upper part of the plant

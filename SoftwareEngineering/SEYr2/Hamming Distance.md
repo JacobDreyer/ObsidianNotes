@@ -1,0 +1,1 @@
+If $\vec x, \vec y \in \mathbb F_2^n$ set $d(\vec x, \vec y)$ = # of coordinates where $x_i \neq y_i$

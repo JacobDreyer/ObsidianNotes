@@ -1,0 +1,8 @@
+- Three parts
+	- scheme ([[HTTP]]), server ([[Network Endpoint]]) (example.com) and path (/ex/one)
+	- \http://example.com/ex/one   (absolute URL)
+- [[Relative URL]] (defines only the path (Where in the network endpoint it is))
+	- sgml/dtd.html
+- [[Fragment Identifier]] 
+	- \http://example.com/tage.html#sec1
+- Subset of the generic [[URI]]

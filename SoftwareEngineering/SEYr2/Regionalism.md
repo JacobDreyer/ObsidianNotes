@@ -1,0 +1,1 @@
+Regionalism refers to the distinctive local character of a geographic area, or to a people's perception of and identification with such places.

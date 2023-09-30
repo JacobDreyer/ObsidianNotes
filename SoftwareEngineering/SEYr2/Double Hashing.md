@@ -1,0 +1,16 @@
+
+- Uses a Second [[Hash Function]]
+	- Different from the first
+	- Depends on the search key
+	- Returns non-zero value
+- Resolves collision by examining locations
+	- At Original Hash index
+	- Plus an increment determined by $2^{nd}$ function which is dependent on the search key
+		- 1 for [[Linear Probing]]
+		- $j^2$ for [[Quadratic Probing]]
+- Reaches Every location in the hash table if table size is a prime number
+- Avoids both [[Primary Clustering]] and [[Secondary Clustering]]
+- Common Choice of [[Compression Function]]:
+	- $h_2(key) = q-key\mod q$
+	- where q < n
+	- q is a prime number

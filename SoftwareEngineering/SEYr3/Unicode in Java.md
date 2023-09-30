@@ -1,0 +1,4 @@
+- [[Java]] represents characters as [[UTF-16]] [[Code Unit]]s - Not as [[UTF-16]] [[Code Point]]s
+- A pragmatic choice to use only 16 bits
+- The length function on strings may be wrong (see String.codePointCount)
+- Some strings may represent illegal data

@@ -1,0 +1,27 @@
+- [[Data Definition Language]] ([[DDL]])
+	- Permits the specification of data types, structures and any data constraints
+	- All specifications stored in the [[Database]]
+	- Contains commands like CREATE, ALTER, DROP, TRUNCATE
+- [[Data Manipulation Language]] ([[DML]])
+	- General enquiry facility (query language) of the data
+	- Used for selecting, inserting, deleting and updating data in a database
+	- Contains commands like SELECT, INSERT, UPDATE, DELETE
+- [[Data Control Language]] ([[DCL]])
+	- Regulate the permissions granted to users on database objects
+	- Contains commands like GRANT and REVOKE
+- [[Transaction Control Language]] ([[TCL]])
+	- Manage transactions in the database
+	- Contains commands like COMMIT, ROLLBACK, and SAVEPOINT
+- [[Structured Query Language]] ([[SQL]]) encompasses [[DDL]], [[DML]], [[DCL]], & [[TCL]]
+
+- [[System Security]]:
+	- Protects the [[Database]] from unauthorized access through measures like authentication and authorization
+- [[System Integrity]]:
+	- Ensures data remains consistent and accurate by enforcing rules and constraints
+- [[Concurrency Control]]:
+	- Manages simultaneous database access by multiple users to maintain data consistency (transaction control)
+- [[Recovery Control]]:
+	- Safeguards date by restoring it to a consistent state after system failures or errors
+- [[Database Catalog]]:
+	- A central repository of metadata containing information about the [[Database]]'s structure and it's objects
+- 

@@ -1,0 +1,4 @@
+- A Tuple is an [[Immutable Sequence]] of comma seperated elements
+- May be surrounded by round parentheses
+	- The parentheses are only required for an empty tuple
+- Single element tuples must have a trailing comma

@@ -1,0 +1,1 @@
+A plant that has waxy leaves which reduce moisture loss. Like a cactus

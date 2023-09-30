@@ -1,0 +1,11 @@
+- [[Attribute]]s have:
+	- a name identifying them within an object
+	- a brief description
+	- a type describing the legal values it can take
+- Heuristics for Identifying Attributes:
+	- Examine possesive phrases
+	- Represent stored state as an attribute of the entity object
+	- Describe each attribute
+	- Do not represent an attribute as an Object; use an association instead
+	- Do not waste time describing fine details before the object structure is stable
+	- 

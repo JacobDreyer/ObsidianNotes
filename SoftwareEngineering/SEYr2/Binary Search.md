@@ -1,0 +1,5 @@
+- A quick and effective way to search a list that uses the [[Decrease and Conquer]] approach (a simpler version of [[Divide and Conquer Algorithm]])
+- Pre-Requisite: The data MUST be sorted
+- Divides the input into equal halves, and with each iteration compares the goal element with the middle element
+- If the element is found, the search ends.
+- Otherwise it continues looking for the element by dividing the array and selecting the appropriating section

@@ -1,0 +1,6 @@
+#### 1. [[Client-Server Architecture]]
+![[Client-Server Architecture]]
+#### 2. [[Three-Tier Architecture]]
+![[Three-Tier Architecture]]
+#### 3. [[Four-Tier Architecture]]
+![[Four-Tier Architecture]]

@@ -1,0 +1,1 @@
+[[Art of Persuasion]] (Classically): more generally, concern with understanding/employing best availbile means of communicating your message

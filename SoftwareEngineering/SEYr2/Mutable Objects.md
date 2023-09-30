@@ -1,0 +1,1 @@
+- Mutable objects can be changed after they are created

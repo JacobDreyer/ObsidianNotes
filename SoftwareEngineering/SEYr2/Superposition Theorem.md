@@ -1,0 +1,1 @@
+The Superposition theorem states that the voltage across (or current through) an element in a [[Linear Circuit]] is the algebraic sum of the voltages across (or currents through) that element due to each independent source acting alone

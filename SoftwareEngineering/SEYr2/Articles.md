@@ -1,0 +1,1 @@
+(a, the, an) and the like are all considered [[Adjective]]s because they modify a [[Noun]] and answer the specific questions "of which", "how many", etc (an egg, the pen)

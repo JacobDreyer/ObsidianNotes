@@ -1,0 +1,9 @@
+- A [[Code Unit]] is a single byte
+- A [[Code Point]] is translated onto 1-4 code units
+- code units between 0 and 127 directly represent the corresponding code points
+- 110XXXXX indicates that 2 code units are used
+- 1110XXXX indicates that 3 code units are used
+- 11110XXX indicates that 4 code units are used
+- The remaining code units look like 10XXXXXX
+- UTF-8 files may start with the special sequence called "[[Byte Order Mark]]" ([[BOM]])
+	- "EF BB BF" (11101111 10111011 10111111)

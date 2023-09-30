@@ -1,0 +1,4 @@
+- The question of stability in [[Sorting Algorithms]] arises when we wish to sort the same data-set more than once according to different keys
+- The problem is the second sort might destroy the order set by the first sort if there are some duplicate second keys
+- However this will not happen if the second sorting algorithm is a ==Stable Sorting Algorithm==
+- ==A sorting algorithm is stable if it preserves the order of duplicate keys==

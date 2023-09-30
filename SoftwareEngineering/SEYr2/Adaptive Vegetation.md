@@ -1,0 +1,5 @@
+#### [[Xerophyte]]
+![[Xerophyte]]
+
+### [[Krumholz]]
+![[Krumholz]]

@@ -1,0 +1,3 @@
+- Special type of sequences
+- Elements surrounded by quotes and not seperateed by commas
+- Elements are unicode characters

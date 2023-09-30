@@ -1,0 +1,7 @@
+- All subjects must give their informed consent before data are collected
+- Subjects must be informed in advance about the nature of a study and any risk of harm it might bring
+- Subjects must then consent in writing
+- Who cannot give informed consent?
+	- Prison Inmates
+	- Very young children
+	- People with mental disorders

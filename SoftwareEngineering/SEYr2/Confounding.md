@@ -1,0 +1,1 @@
+- Two variables are Confounded when their effects on a response variable cannot be distinguished from each other. The confounded variables may be either explanatory variables or [[Lurking Variables]]

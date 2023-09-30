@@ -1,0 +1,1 @@
+The view that one ethnic group is superior to another

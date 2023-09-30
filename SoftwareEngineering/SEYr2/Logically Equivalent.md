@@ -1,0 +1,1 @@
+Let P and Q be propositional functions. If P and Q are both true or both false when given the same truth values (inputs) then we say P and Q are Logically Equivalent

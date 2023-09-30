@@ -1,0 +1,5 @@
+- Shows the execution flow
+- A simplified version of the [[UML Activity Diagram]] can be used
+	- Activities represent key tasks of the system
+	- Decision can represent multiple options not just yes/no decisions
+- All models are created progressively and if possible with hierarchical decomposition up to 3 levels

@@ -1,0 +1,1 @@
+This is a system of paths, greenways, waterways, and roads linking the 3 ocean coasts; 80% of Canadians live within 30 minutes of the great trail.

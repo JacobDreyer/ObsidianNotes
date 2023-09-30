@@ -1,0 +1,21 @@
+- Motivation
+	- Objects sometimes have a complicated life cycle, so that we use [[UML State Diagram]] to model their behaviour
+	- When we implement such an object, it's a good idea to avoid coding all the details of the corresponding state diagram inside the object's own methods; otherwise an application is characterized by large and complex if-else and case statements
+	- The state pattern is a convenient way of implementing a state diagram seperately from the original object, allowing us to see and modify the state-related behaviour easily
+- Intent 
+	- Allow an object to alter it's behaviour when it's internal state changes. The object will appear to change it's class
+	- an object oriented state machine
+- Also known as
+	- Objects for States
+- Participants
+	- Context
+		- Defines the interface of interest to clients
+		- Maintains an instance of a ConcreteState subclass that defines the current state 
+	- State
+		- Defines an interface for encapsulation the behaviour associated with a particular state of the Context
+	- ConcreteSubclasses
+		- each subclass implements a behaviour associated with a state of the context
+- Solution - Use the state pattern when:
+	- An object's behaviour depends on its state, and it must change it's behaviour at run-time depending on that state
+	- Operations have large multipart conditional statements that depend on the object's state
+![[Pasted image 20230403161246.png]]

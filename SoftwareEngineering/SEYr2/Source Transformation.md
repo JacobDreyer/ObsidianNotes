@@ -1,0 +1,2 @@
+- We can replace a voltage source in series with a resistance by a [[Norton Equivalent Circuit]]
+- This is refered to as source transformation

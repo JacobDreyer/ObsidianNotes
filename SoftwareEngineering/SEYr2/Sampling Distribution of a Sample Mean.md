@@ -1,0 +1,1 @@
+When we choose many SRSs from a [[Population]], the sampling distribution of the sample mean is centered at the population mean $\mu$ and is less spread out than the population distribution 

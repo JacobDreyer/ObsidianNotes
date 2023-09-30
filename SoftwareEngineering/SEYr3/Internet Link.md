@@ -1,0 +1,46 @@
+### Physical Media
+- Bit:
+	- propagates between transmitter/receiver pairs
+- Physical Link:
+	- What lies between transmitter and receiver
+- [[Guided Media]]:
+	- Signals propagate in solid media: [[Copper]], [[Fiber]], [[Coax]]
+- [[Unguided Media]]:
+	- Signals propagate freely, e.g. [[Radio]]
+- [[Twisted Pair]] ([[TP]])
+	- 2 insulated [[Copper Wire]]s
+		- Category 5: 100Mbps, 1 Gbps [[Ethernet]]
+		- Category 6: 10Gbps [[Ethernet]]
+- [[Coaxial Cable]]
+	- Two concentric [[Copper]] conducters
+	- bidirectional
+	- broadband
+		- Multiple frequency channels on cable
+		- 100's Mbps per channel
+- [[Fiber Optic Cable]]
+	- glass fiber carrying light pulses, each pulse a bit
+	- high-speed operation:
+		- high-speed point-to-point transmission (10's-100's Gbps)
+	- low error rate
+		- repeaters spaced far apart
+		- immune to electromagnetic noise
+- [[Wireless Radio]]
+	- signal carried in various "bands" in [[electromagnetic spectrum]]
+	- no physical "wire"
+	- broadcast, "[[Half-Duplex]]" (sender to receiver)
+	- Propagation environment effects:
+		- Reflection
+		- Obstruction by objects
+		- Interference/Noise
+- Radio Link Types
+	- [[Wireless LAN]] ([[WiFi]])
+		- 10-100's Mbps; 10's meters
+	- Wide-area (e.g. [[4G_5G Cellular]])
+		- 10's Mbps (4G) over ~10km
+	- [[Bluetooth]]: cable replacement
+		- short distances, limited rates
+	- [[Terrestrial Microwave]]
+		- point-to-point, 45 Mbps channels
+	- [[Satellite]]
+		- up to < 100 Mbps ([[Starlink]]) downlink
+		- 270msec end-to-end delay ([[Geostationary]])

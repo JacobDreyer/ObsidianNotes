@@ -1,0 +1,5 @@
+- [[Web Hypertext Application Technology Working Group]]
+- Founded by individuals from [[Apple]], [[Mozilla]], [[Opera]]
+- Focuses on [[HTML5]] standard
+- Differs slightly from [[W3C HTML5]]
+- Aims to have better involvement with browser vendors

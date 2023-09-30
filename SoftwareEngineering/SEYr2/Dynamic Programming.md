@@ -1,0 +1,4 @@
+- Avoids re-computing solutions that have already been computed
+- Constructs the optimal solution to a problem from optimal solutions to subproblems
+- Main difference between Dynamic Programming an d[[Divide and Conquer Algorithm]]:
+	- The subproblems are more or less independent in divide and conquer, whereas subproblems overlap in dynamic programming.

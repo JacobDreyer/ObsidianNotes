@@ -1,0 +1,1 @@
+Is a [[cycle]] where no vertex is repeated

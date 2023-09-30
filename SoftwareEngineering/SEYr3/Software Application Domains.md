@@ -1,0 +1,14 @@
+- [[System Software]]: [[Compiler]]s, [[Editor]]s, etc.
+	- a collection of programs written to service other programs. Some system software (e.g. [[Compiler]]s, [[Editor]]s, and [[file management utilities]]) processes complex, but [[Determinate]], 3 information structures. Other system applications (e.g. [[Operating System]] components, [[Driver]]s, [[Networking Software]], [[Telecommunication Procesors]]) process largely indeterminate data
+- [[Application Software]]: Applications in this area process business or technical data in a way that business operations making
+	- stand-alone programs that solve a specific business need. Applications in this area process business or technical data in a way that facilitates business operations or management/technical decision making
+- [[Engineering Software]]: From [[Computer-Aided Design]] to [[Genetic Analysis]]\
+	- a broad array of "number-crunching" programs that range from astronomy to volcanology, from automotive stress analysis to orbital dynamics, and from [[Computer-Aided Design]] to [[Molecular Biology]], from [[Genetic Analysis]] to [[Meteorology]]
+- [[Web Application]]/[[Mobile Application]]
+	- This network-centric software category spans a wide array of applications and encompasses both browser-based apps and software that resides on mobile devices
+- [[AI Software]]
+- [[Embedded Software]]
+	- resides within a product or system and is used to implement and control features and functions for the end user and for the system itself. Embedded software can perform limited and [[Esoteric Function]]s (e.g. keypad control for a microwave over) or provide significant function and control capability (e.g. digital functions in an automobile such as fuel control, dashboard displays, and braking systems)
+- [[Product-line Software]]
+	- designed to provide specific capability for use by many different customers. product-line software can focus on a limited and esoteric marketplace (e.g. inventory control products) or address mass consumer
+

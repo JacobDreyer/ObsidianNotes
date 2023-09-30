@@ -1,0 +1,3 @@
+- Is like a [[Dynamic Programming]] Algorithm, but the difference is that solutions to the subproblems do not have to be known at each stage: instead a "greedy" choice can be made of what looks best for the moment
+- The greedy method extends the solution with the best possible decision at an algorithmic stage based on the current local optimum and the best decision made in previous stage
+- It is not exhaustive and does not give accurate answers to many problems

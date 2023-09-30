@@ -1,0 +1,7 @@
+- Browsers ignore JavaScript errors
+	- May see "undefined" if a variable is not initialized or empty if null or causes a Reference Error
+- Appears that your scripts are not doing anything
+	- No feedback to indicate there is something wrong
+- Use the built-in developer tools to see the error messages
+	- Both Chrome and Firefox have excellent dev tools including a full debugger
+	- Much more than checking errors

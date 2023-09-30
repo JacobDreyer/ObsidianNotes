@@ -1,0 +1,4 @@
+- queue (aka buffer/memory) preceding [[Internet Link]] in buffer has finite capacity
+- packet arriving to full queue (memory) dropped (lost) because there is no storage/space for it
+- lost packet may be retransmitted by previous node, by source end system, or not at all
+- 

@@ -1,0 +1,3 @@
+- Many behavioral [[experiment]]s rely on hiding the true purpose of the study
+- Subjects would be likely to change their behavior if they were told in advance what the investigators were looking for
+- The Ethical Principles of the American Psychological Association require consent, unless a study merely observes behaviour in a public space

@@ -1,0 +1,2 @@
+- Involves solving a difficult problem by transforming it into a better-known problem for which we have asymptotically optional algorithms
+- The goal is to find a reducing algorithm whose complexity is not dominated by the resulting reduced Algorithm's

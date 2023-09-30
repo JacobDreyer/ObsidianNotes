@@ -1,0 +1,6 @@
+- [[Database]]
+- [[DBMS]]
+- [[Database Engine]]
+- [[Database Schema]]
+- Application Programs/Interface
+- Hardware Resources e.g. (servers, storage devices)

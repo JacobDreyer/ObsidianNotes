@@ -1,0 +1,1 @@
+Numbers cluster up in multiple locations

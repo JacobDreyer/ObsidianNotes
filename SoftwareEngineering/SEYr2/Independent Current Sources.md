@@ -1,0 +1,1 @@
+An ideal independent current source forces a specified [[Current]] to flow through itself

@@ -1,0 +1,1 @@
+- The smalles entity to which a treatment is applied. When the units are human beings, they are often called subjects

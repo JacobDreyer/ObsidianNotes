@@ -1,0 +1,1 @@
+The digital value that is held for a non-zero period of time

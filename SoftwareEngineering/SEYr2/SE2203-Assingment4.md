@@ -1,0 +1,9 @@
+- The functionality will be implemented using a [[Composite Pattern]]
+- How classes will be implemented (Maybe?)
+	- A group will be implemented as a Leaf
+	- A "subgroup" can be added to the Leaf
+	- The leaf becomes a Composite ("Parent")
+- How the Database will work (Maybe?)
+	- Group Table
+		- Will keep track of Name + Parent + Children
+		- 

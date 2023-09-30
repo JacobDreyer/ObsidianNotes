@@ -1,0 +1,1 @@
+The addition of [[Phosphates]] into lakes from [[Fertilizers]] and [[Chemicals]] that run off from [[Agricultural Areas]]

@@ -1,0 +1,1 @@
+A [[Finite State Machine]] that produces an abstract output: a state (for a [[Moore FSM]]) or a transition (for a [[Mealy FSM]]) is identified as "producing output" but the precise output is not provided.
